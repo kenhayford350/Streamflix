@@ -65,7 +65,7 @@ Clone or download the repo:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/streamflix-dashboard.git
+git clone https://github.com/kenhayford350/streamflix-dashboard.git
 Open BUSINESS DEVELOPMENT DASHBOARD OF STREAMFLIX.pbix in Power BI Desktop.
 
 Interact with filters for insights by:
