@@ -91,3 +91,4 @@ Deploy dashboard on Power BI Service for stakeholder access
 Hi, I'm Kenneth Hayford – a data analyst passionate about storytelling through data and helping businesses make informed decisions.
 
 📎 LinkedIn https://www.linkedin.com/in/kenneth-hayford/
+    Portfolio https://kenneth-hayford.zarlasites.com/
